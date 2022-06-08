@@ -13,4 +13,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "gradle-kotlin-dsl"
-include ':app'
+include (":app")
